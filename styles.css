@@ -1,0 +1,119 @@
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+.body {
+    min-height: 90vh;
+    scroll-behavior: smooth;
+}
+
+.card {
+    width: 300px;
+}
+
+.card-img {
+    height: 200px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+
+html {
+    background-color: #e2dfd2;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+button {
+    border: 0;
+
+}
+
+.bg-primary {
+    background-color: #946344;
+}
+
+.bg-secondary {
+    background-color: #8bbc2d;
+}
+
+.text-centre {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.align-centre {
+    align-items: center;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.color-white {
+    color: #fff;
+}
+
+.fs-lg {
+    font-size: 22px;
+}
+
+.fw-bold {
+    font-weight: bold;
+}
+
+.padding-sm {
+    padding: 10px;
+}
+
+.padding-md {
+    padding: 25px;
+}
+
+.padding-lg {
+    padding: 50px;
+}
+
+.margin-sm {
+    margin: 10px;
+}
+
+.margin-md {
+    margin: 25px;
+}
+
+.margin-lg {
+    margin: 50px;
+}
+
+.gap-sm {
+    gap: 10px;
+}
+
+.gap-md {
+    gap: 25px;
+}
+
+.gap-lg {
+    gap: 50px;
+}
